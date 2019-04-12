@@ -1,0 +1,11 @@
+body {
+  font-size: 48px;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 5%;
+}
+
+.handwriting {
+  font-family: "olivia";
+  font-size: 48px;
+}
